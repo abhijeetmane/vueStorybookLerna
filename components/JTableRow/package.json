@@ -1,7 +1,8 @@
 {
-  "name": "@jsilva-pt/j-table-row",
+  "name": "@abhijeetmane/j-table-row",
   "version": "0.1.0",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "be33c8a4b2881e72bfd5c609d10467f8bec5f856"
 }

@@ -1,6 +1,6 @@
 <template>
   <tr>
-    <td v-for="(value, index) in values" :key="index">{{ value }}</td>
+    <td v-for="(value, index) in values" :key="index">hi {{ value }}</td>
   </tr>
 </template>
 
